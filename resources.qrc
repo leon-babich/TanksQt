@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/Image">
+        <file>Images/imageGerb.png</file>
+        <file>Images/Image_ruin.jpg</file>
+        <file>Images/depositphotos_3667188-stock-illustration-heraldic-eagel.jpg</file>
+        <file>Images/T64_5.gif</file>
+    </qresource>
+    <qresource prefix="/sound">
+        <file>Sounds/TankShot.wav</file>
+        <file>Sounds/TankShot2.wav</file>
+        <file>Sounds/alizje-thunderpiano.mp3</file>
+        <file>Sounds/sound_blow.wav</file>
+        <file>Sounds/sound_blow_2.wav</file>
+        <file>Sounds/sound_electricity.wav</file>
+        <file>Sounds/tank-edet-po-peresechennoj-mestnosti.mp3</file>
+    </qresource>
+</RCC>

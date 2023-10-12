@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>Images/imageGerb.png</file>
+    </qresource>
+    <qresource prefix="/new/prefix2">
+        <file>Sounds/tank-edet-po-peresechennoj-mestnosti.mp3</file>
+        <file>Sounds/sound_moving_tank.wav</file>
+        <file>Sounds/sound_moving_tank_2.wav</file>
+        <file>Sounds/sound_moving_tank_3.wav</file>
+        <file>Sounds/sound_shot.wav</file>
+        <file>Sounds/TankShot.wav</file>
+        <file>Sounds/TankShot2.wav</file>
+    </qresource>
+</RCC>
